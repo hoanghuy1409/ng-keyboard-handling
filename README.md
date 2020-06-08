@@ -1,5 +1,7 @@
 # AuMask
 
+![image](https://user-images.githubusercontent.com/54434089/83967742-5fbb1380-a8ee-11ea-9b00-44b7d2756d17.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.25.
 
 ## Development server
